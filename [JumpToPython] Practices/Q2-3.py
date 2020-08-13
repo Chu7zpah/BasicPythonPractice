@@ -7,4 +7,4 @@ front = ssn_split[0]
 back = ssn_split[1]
 
 print("YYMMDD: {}".format(front))
-print("Others: {}".format(bacSk))
+print("Others: {}".format(back))
