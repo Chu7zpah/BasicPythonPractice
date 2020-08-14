@@ -8,7 +8,7 @@ elif "python" in a and "you" not in a:  # True & False = False
     print("python")
 elif "shirt" not in a:  # True
     print("shirt")
-elif "need" in a:   # False
+elif "need" in a:   # True, but ignored since 'elif'
     print("need")
 else:               # False
     print("none")
